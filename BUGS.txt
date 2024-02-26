@@ -20,6 +20,7 @@ BUGS TO FIX : {
     When you hop onto the spot the scoreboard should be visible;
 
     Game not starting when two players get on the spot;
+
 }
 
 

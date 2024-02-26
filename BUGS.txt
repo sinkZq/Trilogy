@@ -30,4 +30,6 @@ BUGS WHICH HAS GOTTEN PATCHED : {
 
 }
 
+
 _____________________________________________________________________________________________
+In case you find a new bug, go ahead and report it in the discord server.

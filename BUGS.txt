@@ -9,6 +9,8 @@ BUGS TO FIX : {
 
     When u score 18 it kicks off both players, when it should be 21 win by 2, and whoever wins stay on;
 
+    When getting on a 1v1 court you get teleported to a court you're not standing on, probably same court names;
+
     When someone wins the score doesn't reset to 0;
 
     Sometimes when you score, the points you should be given are given to your opponents

@@ -7,7 +7,9 @@ BUGS TO FIX : {
 
    Shot Clock bug??;
 
-    when u score 18 it kicks off both players, when it should be 21 win by 2, and whoever wins stay on;
+    When u score 18 it kicks off both players, when it should be 21 win by 2, and whoever wins stay on;
+
+    When someone wins the score doesn't reset to 0;
 
     Sometimes when you score, the points you should be given are given to your opponents
     

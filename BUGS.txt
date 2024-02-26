@@ -22,6 +22,7 @@ BUGS TO FIX : {
     Game not starting when two players get on the spot;
 }
 
+
 BUGS WHICH HAS GOTTEN PATCHED : {
   
    PivotPlayer after game ends error;

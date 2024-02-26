@@ -1,0 +1,26 @@
+BUGS TO FIX : {       
+
+   Shot Clock bug??;
+
+    when u score 18 it kicks off both players, when it should be 21 win by 2, and whoever wins stay on;
+
+    Sometimes when you score, the points you should be given are given to your opponents
+    
+    you should not be able to  see scoreboard when your not playing, it should reset every-time someone wins;
+
+    Handle keybinds are off;
+
+    Handles are a little to slow;
+
+    When you hop onto the spot the scoreboard should be visible;
+
+    Game not starting when two players get on the spot;
+}
+
+BUGS WHICH HAS GOTTEN PATCHED : {
+  
+   PivotPlayer after game ends error;
+
+    When scoring player teleports under ground and gets stuck(probably cancollide);
+
+}

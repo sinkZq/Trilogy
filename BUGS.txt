@@ -26,9 +26,11 @@ BUGS TO FIX : {
 
 BUGS WHICH HAS GOTTEN PATCHED : {
   
-   PivotPlayer after game ends error;
+    PivotPlayer after game ends error;
 
     When scoring player teleports under ground and gets stuck(probably cancollide);
+
+    Game logs fixed;
 
 }
 
